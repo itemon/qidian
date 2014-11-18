@@ -1,8 +1,3 @@
-boy took bat home
-boy took bat home
-girl took bat home
-boy took bat home
-boy took bat home
-dog brought hat home
-dog brought hat home
-dog brought hat home
+# qidian server maintaining script
+* run `start.sh` to start the server
+* run `stop.sh` to stop the server
